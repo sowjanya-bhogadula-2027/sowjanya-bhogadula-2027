@@ -42,8 +42,7 @@ Experienced **AI/ML Engineer (5+ Years)** with a specialized focus on **Generati
 
 ---
 
-## 🚀 Featured Project: Agentic Knowledge Automation
-# 🩺 Workup Agent: ERISA Denial Analysis System
+## 🚀 Featured Project: Workup Agent: ERISA Denial Analysis System
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
 [![LLM](https://img.shields.io/badge/Supported%20LLMs-GPT--4o%20%7C%20LLaMA3-orange.svg)]()
