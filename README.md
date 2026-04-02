@@ -1,4 +1,4 @@
-# <p align="left">✨ Lakshmi Sowjanya Bhagodula ✨</p>
+# <p align="left">Lakshmi Sowjanya Bhagodula </p>
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=false&vCenter=false&width=600&lines=Senior+AI+%2F+ML+Engineer;" alt="Typing SVG" />
 </p>
