@@ -43,14 +43,40 @@ Experienced **AI/ML Engineer (5+ Years)** with a specialized focus on **Generati
 ---
 
 ## 🚀 Featured Project: Agentic Knowledge Automation
-*Integrated Multi-Agent Reasoning System*
+# 🩺 Workup Agent: ERISA Denial Analysis System
+
+[![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
+[![LLM](https://img.shields.io/badge/Supported%20LLMs-GPT--4o%20%7C%20LLaMA3-orange.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+
+A production-ready, agentic system designed to analyze medical claim denials subject to ERISA guidelines. This system bridges advanced natural language synthesis with deterministic, auditable machine learning classifiers to simulate a highly specialized human claims analyst.
+
+---
+
+## 🏗️ System Architecture & Data Flow
+
+This project utilizes a **Tool-Augmented Reasoning** paradigm, allowing an LLM to follow strict decision trees while dynamically calling isolated programmatic tools.
 
 ```mermaid
-graph LR
-    A[User Query] --> B{Reasoning Loop}
-    B -->|Thought| C[RAG / Vector Search]
-    B -->|Action| D[Tool Call: MCP]
-    C --> E[Context Injection]
-    D --> F[Tool Output]
-    E & F --> G[Final Response]
-    G --> B
+graph TD
+    A[User CLI / API] -->|Invokes Command| B(Core Agent Pipeline)
+    
+    %% Agent Processing
+    B -->|1. Load & Normalize| C[Claim Loader CSV]
+    B -->|2. Orchestrate Workflow| D{Reasoning Loop}
+    
+    %% Tool Layer
+    D -->|Calls| E[Classifier Tool]
+    D -->|Calls| F[Playbook Retriever Tool]
+    D -->|Calls| G[Session Store Tool]
+    
+    %% Operations
+    E -->|TF-IDF + Logistic Reg| H[(Denial Taxonomy)]
+    F -->|Keyword Match| I[(Playbook DB)]
+    G -->|Persistence| J[(SQLite DB)]
+    
+    %% Output
+    D -->|3. Synthesize| K[Output Synthesis]
+    K -->|4. Validate| L{Schema Validator}
+    L -->|Pass| M[Strict JSON Result]
+    L -->|Fail| N[Error Handling / Retry]
