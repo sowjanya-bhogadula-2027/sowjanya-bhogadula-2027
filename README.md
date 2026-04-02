@@ -1,9 +1,9 @@
 # <p align="center">✨ Lakshmi Sowjanya Bhagodula ✨</p>
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Senior+AI+%2F+ML+Engineer;GenAI+%26+LLM+Specialist;Building+Autonomous+Intelligence" alt="Typing SVG" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://lsbhogadula.org"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:lakshmisowjanya275@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
