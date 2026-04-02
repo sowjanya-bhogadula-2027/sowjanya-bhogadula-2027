@@ -100,8 +100,7 @@ graph TD
 
 ---
 
-
-# Let's Build Something Intelligent
+## 📫 Let's Build Something Intelligent
 I am always looking to discuss **Agentic AI frameworks**, **LLM Fine-tuning**, or **Responsible AI**. 
 
 - **Location:** Liberty Hill, TX (Open to Remote)
