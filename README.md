@@ -50,7 +50,6 @@ Experienced **AI/ML Engineer (5+ Years)** with a specialized focus on **Generati
 
 A production-ready, agentic system designed to analyze medical claim denials subject to ERISA guidelines. This system bridges advanced natural language synthesis with deterministic, auditable machine learning classifiers to simulate a highly specialized human claims analyst.
 
----
 
 ## 🏗️ System Architecture & Data Flow
 
