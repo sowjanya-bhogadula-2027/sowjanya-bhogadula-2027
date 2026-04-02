@@ -1,75 +1,50 @@
-# Lakshmi Sowjanya Bhagodula 🚀
-### Senior AI & Machine Learning Engineer | GenAI & Agentic Systems Specialist
+# <p align="center">✨ Lakshmi Sowjanya Bhagodula ✨</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Senior+AI+%2F+ML+Engineer;GenAI+%26+LLM+Specialist;Agentic+Systems+Architect;MLOps+Practitioner" alt="Typing SVG" />
+</p>
 
-<p align="left">
-  <a href="mailto:lakshmisowjanya275@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://lsbhogadula.org"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<p align="center">
+  <a href="https://lsbhogadula.org"><b>Portfolio Website 🌐</b></a> • 
+  <a href="mailto:lakshmisowjanya275@gmail.com"><b>Contact Me ✉️</b></a> • 
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><b>LinkedIn 💼</b></a>
 </p>
 
 ---
 
-## ⚡ Executive Summary
-Experienced **AI/ML Engineer (5+ Years)** with a specialized focus on **Generative AI (3+ Years)**. I bridge the gap between cutting-edge LLM research and production-grade enterprise systems. My expertise lies in architecting **Agentic AI** using multi-agent orchestration (LangGraph) and high-performance **RAG pipelines**.
+## 🤖 The Mission
+> "Building autonomous intelligence that doesn't just predict the next word, but executes the next action."
 
-- **Current Focus:** Building autonomous agent systems with stateful memory and dynamic tool-calling.
-- **Enterprise Impact:** Improved response accuracy by **35%** at US Bank through advanced RAG optimization.
-- **Academic Background:** M.S. in Computer Science from Texas Tech University.
+I am a **Senior AI Engineer (5+ yrs)** specializing in the intersection of **Generative AI** and **Agentic Workflows**. From architecting RAG pipelines at **US Bank** to designing predictive models at **TCS**, my focus is on building high-reliability, production-grade AI microservices.
 
 ---
 
-## 🛠️ Technical Powerhouse
+## 🛠️ Technology Stack & Ecosystem
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Generative AI** | LangChain, LangGraph, OpenAI (GPT-4o), LLaMA-3, Claude, Gemini, RAG, MCP |
-| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, XGBoost, Reinforcement Learning |
-| **LLM Ops / Tuning** | LoRA, PEFT, Prompt Engineering (CoT/Few-Shot), MLflow, W&B |
-| **Data & Vectors** | Pinecone, OpenSearch, Azure AI Search, FAISS, PySpark, SQL |
-| **Cloud & DevOps** | Azure ML, AWS SageMaker, GCP Vertex AI, Docker, Kubernetes, Terraform |
-| **Engineering** | FastAPI, Flask, CI/CD, Prometheus, Grafana |
+### <img src="https://media.giphy.com/media/WUlxpFpLsmW39xHj3H/giphy.gif" width="20"> Generative AI & Core Intelligence
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-121011?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
----
-
-## 🚀 Featured Project: Agentic Knowledge Automation
-*Integrated Multi-Agent Reasoning System*
-- **The Tech:** LangChain, LangGraph, GPT-4o, Model Context Protocol (MCP).
-- **The Result:** Achieved **~92% response accuracy** and reduced data latency by **60%**.
-- **The Innovation:** Implemented a stateful reasoning loop that allows agents to autonomously invoke tools for security scanning and document intelligence.
-- [**View Repository**](https://github.com/lsbhogadula/your-repo-link) | [**Live Demo**](https://lsbhogadula.org)
+### <img src="https://media.giphy.com/media/VseX2p28Tid0uS6F5m/giphy.gif" width="20"> Infrastructure & MLOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
-## 📈 Professional Trajectory
+## 🚀 Key Innovation: Agentic Knowledge Automation
+*Current Production-Grade Project*
 
-#### **GenAI Engineer | US Bank** *July 2024 – Present*
-- Deployed Agentic AI systems using **LangGraph** for autonomous task execution.
-- Fine-tuned **Llama-2** and **Gemma** for enterprise workloads using LoRA/PEFT.
-- Built multimodal pipelines processing text, PDFs, and images via OCR and LLM-retrieval.
-
-#### **Research Engineer | Texas Tech University**
-*Sept 2022 – May 2024*
-- Developed RL-based decision-making workflows and scalable NLP microservices.
-- Automated end-to-end MLOps pipelines using GitHub Actions and MLflow.
-
-#### **Data Scientist | Tata Consultancy Services (TCS)**
-*Jan 2020 – Aug 2022*
-- Increased user engagement by **15%** via collaborative filtering recommendation systems.
-- Boosted CV model accuracy by **18%** for production object detection tasks.
-
----
-
-## 📊 My GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sowjanya-bhogadula-2027&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya-bhogadula-2027&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
-## 📫 Let's Build Something Intelligent
-I am always looking to discuss **Agentic AI frameworks**, **LLM Fine-tuning**, or **Responsible AI**. 
-
-- **Location:** Liberty Hill, TX (Open to Remote)
-- **Website:** [lsbhogadula.org](https://lsbhogadula.org)
-- **Fun Fact:** I'm currently experimenting with indoor saffron farming—it's surprisingly similar to tuning an LLM: high sensitivity, specific environments, and great rewards!
+```mermaid
+graph LR
+    A[User Query] --> B{Reasoning Loop}
+    B -->|Thought| C[RAG / Vector Search]
+    B -->|Action| D[Tool Call: MCP]
+    C --> E[Context Injection]
+    D --> F[Tool Output]
+    E & F --> G[Final Response]
+    G --> B
