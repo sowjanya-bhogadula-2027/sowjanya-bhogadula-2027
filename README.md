@@ -42,6 +42,25 @@ Experienced **AI/ML Engineer (5+ Years)** with a specialized focus on **Generati
 
 ---
 
+## 📈 Professional Trajectory
+
+#### **GenAI Engineer | US Bank** *July 2024 – Present*
+- Deployed Agentic AI systems using **LangGraph** for autonomous task execution.
+- Fine-tuned **Llama-2** and **Gemma** for enterprise workloads using LoRA/PEFT.
+- Built multimodal pipelines processing text, PDFs, and images via OCR and LLM-retrieval.
+
+#### **Research Engineer | Texas Tech University**
+*Sept 2022 – May 2024*
+- Developed RL-based decision-making workflows and scalable NLP microservices.
+- Automated end-to-end MLOps pipelines using GitHub Actions and MLflow.
+
+#### **Data Scientist | Tata Consultancy Services (TCS)**
+*Jan 2020 – Aug 2022*
+- Increased user engagement by **15%** via collaborative filtering recommendation systems.
+- Boosted CV model accuracy by **18%** for production object detection tasks.
+
+---
+
 ## 🚀 Featured Project: Workup Agent: ERISA Denial Analysis System
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
@@ -78,3 +97,12 @@ graph TD
     K -->|4. Validate| L{Schema Validator}
     L -->|Pass| M[Strict JSON Result]
     L -->|Fail| N[Error Handling / Retry]
+
+---
+
+## 📫 Let's Build Something Intelligent
+I am always looking to discuss **Agentic AI frameworks**, **LLM Fine-tuning**, or **Responsible AI**. 
+
+- **Location:** Liberty Hill, TX (Open to Remote)
+- **Website:** [lsbhogadula.org](https://lsbhogadula.org)
+- **Fun Fact:** I'm currently experimenting with indoor saffron farming—it's surprisingly similar to tuning an LLM: high sensitivity, specific environments, and great rewards!
