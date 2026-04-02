@@ -61,8 +61,8 @@ Experienced **AI/ML Engineer (5+ Years)** with a specialized focus on **Generati
 
 ## 📊 My GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsbhogadula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsbhogadula&layout=compact&theme=tokyonight&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sowjanya-bhogadula-2027&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowjanya-bhogadula-2027&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
