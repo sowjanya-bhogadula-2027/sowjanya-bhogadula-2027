@@ -44,7 +44,7 @@ Experienced **AI/ML Engineer (5+ Years)** with a specialized focus on **Generati
 
 ## 📈 Professional Trajectory
 
-#### **GenAI Engineer | US Bank** *July 2024 – Present*
+#### **GenAI Engineer | Digital Scripts** *July 2024 – Present*
 - Deployed Agentic AI systems using **LangGraph** for autonomous task execution.
 - Fine-tuned **Llama-2** and **Gemma** for enterprise workloads using LoRA/PEFT.
 - Built multimodal pipelines processing text, PDFs, and images via OCR and LLM-retrieval.
